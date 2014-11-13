@@ -9,3 +9,6 @@ in your mobile, tablet, and desktop browsers for an example.
 If you are looking to use variants only within your High Voltage pages, take a look
 at [https://github.com/thoughtbot/high_voltage#override](https://github.com/thoughtbot/high_voltage#override)
 for information on how to override the default pages controller for High Voltage.
+
+Uses [browser](https://github.com/fnando/browser) to determine whether or not a
+request is coming from a mobile or tablet device.
